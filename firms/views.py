@@ -1,6 +1,9 @@
 from django.shortcuts import render
 from django.views import View
-from .models import Firm, Employee
+from .models import Firm
+
+import random
+
 
 class Home(View):
 
@@ -9,5 +12,7 @@ class Home(View):
         # returning 3 at the moment but this should change later on
 
         context = dict()
-        context['firms'] = Firm.objects.order_by('-id')[:3]
+
+        firms = [firm for firm in Firm.objects.all()]
+        context['firms'] = random.sample(firms, 3)
         return render(request, 'firms/home.html', context=context)

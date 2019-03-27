@@ -1,0 +1,128 @@
+ <!DOCTYPE html>
+  <html>
+    <head>
+
+      <title></title>
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+    <body>
+
+    <div class="container">
+        <div class="row">
+        {% for firm in firms %}
+          <div class="col s12">
+             <h4>Firm Details</h4>
+          </div>
+          <div class="col s8">
+             <table class="responsive-table">
+                <tbody>
+                  <tr>
+                    <td>Firm Name</td>
+                    <td>{{ firm.firm_name }}</td>
+                  </tr>
+                  <tr>
+                    <td>Year Founded</td>
+                    <td>{{ firm.year_founded }}</td>
+                  </tr>
+                  <tr>
+                    <td>Address</td>
+                    <td>{{ firm.address }}</td>
+                  </tr>
+                  <tr>
+                      <td>Website</td>
+                      <td>{{ firm.website }}</td>
+                  </tr>
+                  <tr>
+                      <td>AUM</td>
+                      <td>{{ firm.aum }}</td>
+                  </tr>
+                   <tr>
+                       <td>Size</td>
+                       <td>{{ firm.size }}</td>
+                   </tr>
+
+                   <tr>
+                       <td>Investment Focus</td>
+                       <td>{{ firm.specialisation }}</td>
+                   </tr>
+                </tbody>
+              </table>
+          </div>
+          <div class="col s4">
+            <table>
+            <thead>
+              <tr>
+                  <th>Audit Notes</th>
+                  <th>Internal User Only</th>
+
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>Audited by</td>
+                <td>---------</td>
+              </tr>
+              <tr>
+                <td>Audit Date</td>
+                <td>---------</td>
+              </tr>
+              <tr>
+                <td>Airtable Update by</td>
+                <td>---------</td>
+              </tr>
+              <tr>
+                <td>Additional Notes</td>
+                <td>-------------</td>
+              </tr>
+            </tbody>
+          </table>
+
+          </div>
+
+          <div class="col s12">
+              <h5>Employees</h5>
+              <table>
+                <thead>
+                  <tr>
+                      <th>Name</th>
+                      <th>Job Title</th>
+                      <th>Investment/Non-Investment</th>
+                      <th>Date Started</th>
+                      <th>Gender</th>
+                      <th>Ic Member</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                {% for employee in firm.employees.all %}
+                     <tr>
+                        <td>{{ employee.first_name }} {{ employee.last_name }}</td>
+                        <td>{{ employee.current_job.title }}</td>
+                        <td>{{ employee.current_job.investment_lookup }}</td>
+                         <td>{{ employee.date_start }}</td>
+                        <td>{{ employee.gender }}</td>
+                         <td>{{ employee.ic_member }}</td>
+                      </tr>
+                {% endfor %}
+                </tbody>
+              </table>
+
+          </div>
+
+
+      {% endfor %}
+        </div>
+    </div>
+
+      <!--JavaScript at end of body for optimized loading-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+  </html>

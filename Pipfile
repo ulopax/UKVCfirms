@@ -9,6 +9,8 @@ verify_ssl = true
 django = "*"
 requests = "*"
 django-heroku = "*"
+gunicorn = "*"
+dj-database-url = "*"
 
 [requires]
 python_version = "3.6"

@@ -1,0 +1,2508 @@
+[
+{
+    "model": "firms.firm",
+    "pk": 1,
+    "fields": {
+        "airtable_id": "reczHIPYkiR586YZx",
+        "firm_name": "24Haymarket",
+        "year_founded": 2012,
+        "address": null,
+        "website": "www.24haymarket.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 2,
+    "fields": {
+        "airtable_id": "recsa8O1EhTDzL2Ms",
+        "firm_name": "83North",
+        "year_founded": null,
+        "address": "21a Kingly Street, London, W1B 5QA, United Kingdom",
+        "website": "www.83north.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 3,
+    "fields": {
+        "airtable_id": "recGa3jSwKQOQPaxQ",
+        "firm_name": "Abingworth Management",
+        "year_founded": 1973,
+        "address": "38 Jermyn Street, London, SW1Y 6DN",
+        "website": "www.abingworth.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 4,
+    "fields": {
+        "airtable_id": "recKUIAwepFF2tqB2",
+        "firm_name": "Accel Partners",
+        "year_founded": null,
+        "address": "1 New Burlington Place, 6th Floor, London W1S 2HR",
+        "website": "https://www.accel.com/",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 5,
+    "fields": {
+        "airtable_id": "recPZOwRpaRDYolnh",
+        "firm_name": "Accelerated Digital Ventures",
+        "year_founded": 2016,
+        "address": "Greenheys Building, 61 Pencroft Way, Manchester M15 6AY",
+        "website": "www.accelerated.ventures",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 6,
+    "fields": {
+        "airtable_id": "recvbyJ9jjzmPIu92",
+        "firm_name": "Advent Life Sciences",
+        "year_founded": null,
+        "address": "158-160 N Gower St, Kings Cross, London NW1 2ND",
+        "website": "www.adventls.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 7,
+    "fields": {
+        "airtable_id": "recN6dD0E2tq20ZBc",
+        "firm_name": "AIB Seed Capital Fund",
+        "year_founded": null,
+        "address": "The Tower, Trinity Technology & Enterprise Centre, Pearse Street, Dublin 2",
+        "website": "www.aibseedcapitalfund.ie/",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 8,
+    "fields": {
+        "airtable_id": "recXzST9WAgdlzWXi",
+        "firm_name": "Albion Capital (KAY)",
+        "year_founded": 1996,
+        "address": null,
+        "website": "www.albion.capital",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 9,
+    "fields": {
+        "airtable_id": "rec3kqS2ndBg2Boqu",
+        "firm_name": "Amadeus Capital Partners",
+        "year_founded": 1997,
+        "address": "16 St James\u2019s Street, London SW1A 1ER",
+        "website": "www.amadeuscapital.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 10,
+    "fields": {
+        "airtable_id": "rec0TcZwmcfYSvC4k",
+        "firm_name": "Angel CoFund",
+        "year_founded": 2011,
+        "address": null,
+        "website": "www.angelcofund.co.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 11,
+    "fields": {
+        "airtable_id": "recr0h8PUBTltXCZx",
+        "firm_name": "Anthemis Group",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.anthemis.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 12,
+    "fields": {
+        "airtable_id": "reck8FYNdqmXDkAzW",
+        "firm_name": "Arts Alliance",
+        "year_founded": 1996,
+        "address": "5 Young Street, London, W8 5EH",
+        "website": "www.artsalliance.co.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 13,
+    "fields": {
+        "airtable_id": "recnaeNYi0cKKFYC4",
+        "firm_name": "Ascension Ventures (UK)",
+        "year_founded": 2010,
+        "address": "20 Air St, 4th Floor, Soho, London W1B 5DL",
+        "website": "www.ascensionventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 14,
+    "fields": {
+        "airtable_id": "recOWMZYEmYovo3u3",
+        "firm_name": "Aston Ventures",
+        "year_founded": 1998,
+        "address": null,
+        "website": "www.astonventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 15,
+    "fields": {
+        "airtable_id": "rectf2Iz7kNAyF9dU",
+        "firm_name": "Athene Capital",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.athenecapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 16,
+    "fields": {
+        "airtable_id": "recBAKmPzjTKRhHV9",
+        "firm_name": "Atomico",
+        "year_founded": 2006,
+        "address": null,
+        "website": "www.atomico.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 17,
+    "fields": {
+        "airtable_id": "recBHzUaNvRJF5hLa",
+        "firm_name": "Augmentum Capital",
+        "year_founded": null,
+        "address": "27 St James\u2019s Place, London, SW1A 1NR",
+        "website": "www.augmentumcapital.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 18,
+    "fields": {
+        "airtable_id": "recW3RVQkbCdhgdPY",
+        "firm_name": "Aviva Ventures",
+        "year_founded": null,
+        "address": "St Helen's, 1 Undershaft, London, EC3P 3DQ",
+        "website": "https://digital.aviva.com/aviva-ventures/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 19,
+    "fields": {
+        "airtable_id": "recWzVbER5cVaoqHR",
+        "firm_name": "AXA Venture Partners",
+        "year_founded": null,
+        "address": "14 Grays Inn Rd, London WC1X 8HN, UK",
+        "website": "https://www.axavp.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 20,
+    "fields": {
+        "airtable_id": "rec6keWdleuV5oio8",
+        "firm_name": "AXM Venture Capital",
+        "year_founded": null,
+        "address": null,
+        "website": "www.axmvc.co.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 21,
+    "fields": {
+        "airtable_id": "recpKYEhMUfaggnZp",
+        "firm_name": "B P Marsh & Partners",
+        "year_founded": null,
+        "address": "2nd Floor, 36 Broadway, London SW1H 0BH",
+        "website": "www.bpmarsh.co.uk/",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 22,
+    "fields": {
+        "airtable_id": "recfTCkzP1CY5UBYW",
+        "firm_name": "Backed VC",
+        "year_founded": 2015,
+        "address": "68-80 Hanbury Street, London E1 5JL",
+        "website": "www.backed.vc",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 23,
+    "fields": {
+        "airtable_id": "recTLl5MqKq7TDAzq",
+        "firm_name": "Balderton Capital",
+        "year_founded": 2000,
+        "address": "The Stables, 28 Britannia street, London WC1X 9JF",
+        "website": "www.balderton.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 24,
+    "fields": {
+        "airtable_id": "recb9K1RIEJO1gNEH",
+        "firm_name": "Beacon Capital",
+        "year_founded": 2012,
+        "address": "WeWork Old St, 41 Corsham Street, N1 6DR, London",
+        "website": "www.beaconcapital.co.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 25,
+    "fields": {
+        "airtable_id": "recAuUrl5k4PhiYdh",
+        "firm_name": "Beast Ventures",
+        "year_founded": 2015,
+        "address": null,
+        "website": "www.beast.vc",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 26,
+    "fields": {
+        "airtable_id": "recjnZo1LudmK03qk",
+        "firm_name": "Beringea",
+        "year_founded": null,
+        "address": "39 Earlham Street, London, UK WC2H 9L",
+        "website": "www.beringea.com/",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 27,
+    "fields": {
+        "airtable_id": "rec4Sthffm7wrWiTf",
+        "firm_name": "Bethnal Green Ventures",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.bethnalgreenventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 28,
+    "fields": {
+        "airtable_id": "recZ41aHjL9oMC5ri",
+        "firm_name": "BGF Ventures",
+        "year_founded": 2015,
+        "address": "21 Palmer Street, London, SW1H 0AD",
+        "website": "www.bgfventures.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 29,
+    "fields": {
+        "airtable_id": "recBEPR9q37px9nYy",
+        "firm_name": "Black Swan Venture Capital",
+        "year_founded": 2015,
+        "address": null,
+        "website": "www.blackswanvc.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 30,
+    "fields": {
+        "airtable_id": "rec4c9Bc0IH1ETDgB",
+        "firm_name": "Blenheim Chalcot",
+        "year_founded": 1998,
+        "address": null,
+        "website": "www.blenheimchalcot.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 31,
+    "fields": {
+        "airtable_id": "recLWGDb9rr3a2mdI",
+        "firm_name": "Blue Star Capital",
+        "year_founded": null,
+        "address": "Griffin House, 135 High Street, Crawley, West Sussex, RH10 1DQ",
+        "website": "www.bluestarcapital.co.uk/",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 32,
+    "fields": {
+        "airtable_id": "recSnBelvgnqAYclh",
+        "firm_name": "Blue Wire Capital",
+        "year_founded": null,
+        "address": "200 Union Street, SE1 0LX, London",
+        "website": "www.bluewirecapital.com/",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 33,
+    "fields": {
+        "airtable_id": "reclv0zJt5tJtBAKb",
+        "firm_name": "BP Ventures",
+        "year_founded": 2006,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 34,
+    "fields": {
+        "airtable_id": "recoM8rUNSAEIRRM0",
+        "firm_name": "Bridges Ventures",
+        "year_founded": null,
+        "address": "38 Seymour Street, London, W1H 7BP",
+        "website": "www.bridgesfundmanagement.com/",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 35,
+    "fields": {
+        "airtable_id": "rec99dv6Lx78wOEbJ",
+        "firm_name": "Britbots",
+        "year_founded": null,
+        "address": null,
+        "website": "www.britbots.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 36,
+    "fields": {
+        "airtable_id": "recrQgY6YQw5f4mEi",
+        "firm_name": "British Gas Venture Capital",
+        "year_founded": 2011,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 37,
+    "fields": {
+        "airtable_id": "rec6mcrrf9E70O0Cs",
+        "firm_name": "Burda Principal Investments",
+        "year_founded": null,
+        "address": "Vineyard House, 44 Brook Green, Hammersmith, London, W6 7BT",
+        "website": "http://www.burdaprincipalinvestments.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 38,
+    "fields": {
+        "airtable_id": "recrHw111IKm8p2jt",
+        "firm_name": "C4 Ventures",
+        "year_founded": 2012,
+        "address": null,
+        "website": "www.c4v.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 39,
+    "fields": {
+        "airtable_id": "recalK8hD00iineTQ",
+        "firm_name": "C5 Capital",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.c5capital.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 40,
+    "fields": {
+        "airtable_id": "recofWYFyL66578AR",
+        "firm_name": "Cabot Square Capital",
+        "year_founded": null,
+        "address": "One Connaught Place, London, W2 2ET",
+        "website": "www.cabotsquare.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 41,
+    "fields": {
+        "airtable_id": "recmeBOQTJUfyADrO",
+        "firm_name": "Cambridge Enterprise",
+        "year_founded": 1972,
+        "address": null,
+        "website": "www.enterprise.cam.ac.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 42,
+    "fields": {
+        "airtable_id": "rec3pJusQVgEg4L0n",
+        "firm_name": "Cambridge Innovation Capital",
+        "year_founded": 2013,
+        "address": null,
+        "website": "www.cicplc.co.uk",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 43,
+    "fields": {
+        "airtable_id": "recCiASOuY30xr3SP",
+        "firm_name": "Catalyst Venture Partners",
+        "year_founded": 1999,
+        "address": null,
+        "website": "www.catvp.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 44,
+    "fields": {
+        "airtable_id": "recOhhYcpUxdUPeoB",
+        "firm_name": "Catapult Ventures",
+        "year_founded": 1999,
+        "address": null,
+        "website": "www.catapult-ventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 45,
+    "fields": {
+        "airtable_id": "recey6dL6PGwmxvz1",
+        "firm_name": "Charlotte Street Capital",
+        "year_founded": null,
+        "address": "17 Wigmore Street, London W1U1PQ",
+        "website": "www.charlottestreetcapital.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 46,
+    "fields": {
+        "airtable_id": "recSXXP72ZKjZRfJQ",
+        "firm_name": "Chrysalis VCT (CYS)",
+        "year_founded": 2000,
+        "address": null,
+        "website": "www.chrysalisvct.co.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 47,
+    "fields": {
+        "airtable_id": "recXyneymr3Ha5MDu",
+        "firm_name": "Co-Fund NI",
+        "year_founded": null,
+        "address": "8th Floor, 11-13 Gloucester Street, Belfastm Co. Antrim, BT1 4LS",
+        "website": "https://www.cofundni.com/",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 48,
+    "fields": {
+        "airtable_id": "recOPspM2aD08t2zq",
+        "firm_name": "Columbia Lake Partners",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.clpgrowth.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 49,
+    "fields": {
+        "airtable_id": "rec0M1YFnoig7X6lx",
+        "firm_name": "Concentric Partners",
+        "year_founded": null,
+        "address": "5th Floor (Waterford buzzer), Kings House, 10 Haymarket, London SW1Y 4BP",
+        "website": "www.concentricteam.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 50,
+    "fields": {
+        "airtable_id": "recru45J66Vv8gJJF",
+        "firm_name": "Conduit Ventures",
+        "year_founded": 2001,
+        "address": null,
+        "website": "www.conduit-ventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 51,
+    "fields": {
+        "airtable_id": "recln9Q9IlvcpzPlV",
+        "firm_name": "Connect Ventures",
+        "year_founded": 2012,
+        "address": "4th Floor, 89 Great Eastern Street, London EC2A 3HX",
+        "website": "www.connectventures.co",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 52,
+    "fields": {
+        "airtable_id": "reczDwquSGqzmuTRz",
+        "firm_name": "Crane Ventures Partners",
+        "year_founded": 2015,
+        "address": null,
+        "website": "www.crane.vc",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 53,
+    "fields": {
+        "airtable_id": "recwzcPf3fFWESjF1",
+        "firm_name": "Dawn Capital",
+        "year_founded": 2007,
+        "address": "21\u201322 Warwick Street, London W1B 5NE, United Kingdom",
+        "website": "www.dawncapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 54,
+    "fields": {
+        "airtable_id": "recSNjVYbriHqVr2w",
+        "firm_name": "DC Thomson Ventures",
+        "year_founded": null,
+        "address": "185 Fleet Street, London, EC4A 2HS",
+        "website": "www.dctventures.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 55,
+    "fields": {
+        "airtable_id": "recNibqIpql0aB55U",
+        "firm_name": "Deepbridge Venture Capital",
+        "year_founded": null,
+        "address": "Deepbridge House, Honeycomb East, Chester Business Park, Chester, CH4 9QN",
+        "website": "http://www.deepbridgecapital.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 56,
+    "fields": {
+        "airtable_id": "recyltmydZhkH5AWU",
+        "firm_name": "Delin Capital",
+        "year_founded": null,
+        "address": null,
+        "website": "www.delincapital.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 57,
+    "fields": {
+        "airtable_id": "rec9xcd0TiltOjGm7",
+        "firm_name": "Discovery Park Technology Investment Fund",
+        "year_founded": null,
+        "address": "Innovation House, Ramsgate Road, Sandwich CT13 9FF",
+        "website": "www.discovery-park.co.uk/discovery-park-technology-investment-fund",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 58,
+    "fields": {
+        "airtable_id": "recOdB7IugFssFMvN",
+        "firm_name": "Disruptive Capital Finance",
+        "year_founded": 2008,
+        "address": "Vestry House, Laurence Pountney Hill, London, EC4R 0EH",
+        "website": "www.disruptivecapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 59,
+    "fields": {
+        "airtable_id": "rec0RdcRO19xJVdMh",
+        "firm_name": "DN Capital",
+        "year_founded": 2000,
+        "address": "2 Queen Anne\u2019s Gate Buildings, Dartmouth Street, London SW1H 9BP",
+        "website": "www.dncapital.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 60,
+    "fields": {
+        "airtable_id": "rec2dr8DeoPxv1ViY",
+        "firm_name": "Downing (DDV1)",
+        "year_founded": 1986,
+        "address": null,
+        "website": "www.downing.co.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 61,
+    "fields": {
+        "airtable_id": "recCRvMEGhd6sEOTE",
+        "firm_name": "Downing Ventures",
+        "year_founded": 2014,
+        "address": "Ergon House, Horseferry Rd, London SW1P 2AL",
+        "website": "www.downingventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 62,
+    "fields": {
+        "airtable_id": "recnlvRHv3MNpB9YA",
+        "firm_name": "Draper Esprit (GROW)",
+        "year_founded": 2006,
+        "address": "20 Garrick Street, London, WC2E 9BT",
+        "website": "www.draperesprit.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 63,
+    "fields": {
+        "airtable_id": "recHmmLt3V3RkTVI6",
+        "firm_name": "EC1 Capital",
+        "year_founded": 2012,
+        "address": "80-83 Long Lane, London, EC1A 9ET",
+        "website": "www.ec1capital.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 64,
+    "fields": {
+        "airtable_id": "recJyjFJreD2se0yE",
+        "firm_name": "Edge Investments",
+        "year_founded": 2006,
+        "address": null,
+        "website": "www.edge.uk.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 65,
+    "fields": {
+        "airtable_id": "rec0m0osUr2VSzJNk",
+        "firm_name": "Eight Great Technologies",
+        "year_founded": null,
+        "address": null,
+        "website": "www.eightgreattechnologies.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 66,
+    "fields": {
+        "airtable_id": "recUF4IXzaH53Zec3",
+        "firm_name": "Eight Roads Ventures",
+        "year_founded": null,
+        "address": "25 Cannon Street, London, EC4M 5TA",
+        "website": "https://eightroads.com/",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 67,
+    "fields": {
+        "airtable_id": "recEoGuz9LHB8zXhr",
+        "firm_name": "Elderstreet Investments (EDV)",
+        "year_founded": null,
+        "address": null,
+        "website": "www.elderstreet.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 68,
+    "fields": {
+        "airtable_id": "rec3y2StCcJrvvGoN",
+        "firm_name": "Enso Ventures",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.ensoventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 69,
+    "fields": {
+        "airtable_id": "recAIBTnEEvz5ivm8",
+        "firm_name": "Entree Capital",
+        "year_founded": null,
+        "address": "124 Baker Street, London, United Kingdom, W1U 6TY",
+        "website": "www.entreecap.com/",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 70,
+    "fields": {
+        "airtable_id": "recTJTVOHq6iDRaro",
+        "firm_name": "Entrepreneur First",
+        "year_founded": 2011,
+        "address": "Entrepreneur First, Block M, The Biscuit Factory, London, SE16 4DG",
+        "website": "www.joinef.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 71,
+    "fields": {
+        "airtable_id": "recpIxoLx7UZviwDO",
+        "firm_name": "Entrepreneurs Fund",
+        "year_founded": 2002,
+        "address": null,
+        "website": "www.entrepreneursfund.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 72,
+    "fields": {
+        "airtable_id": "recxUin9P3hpnR1ei",
+        "firm_name": "Eos Venture Partners",
+        "year_founded": 2016,
+        "address": null,
+        "website": "www.eosventurepartners.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 73,
+    "fields": {
+        "airtable_id": "recqZ2bnc6F2xCqKa",
+        "firm_name": "Episode 1 Ventures",
+        "year_founded": 2012,
+        "address": "KINGSBOURNE HOUSE, 3RD FLOOR, 229-231 HIGH HOLBORN, LONDON WC1V 7DA",
+        "website": "www.episode1.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 74,
+    "fields": {
+        "airtable_id": "recuKM1uQO757ROyF",
+        "firm_name": "ETF Partners",
+        "year_founded": 2006,
+        "address": null,
+        "website": "www.etfpartners.capital",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 75,
+    "fields": {
+        "airtable_id": "rec9uiguKd0xEKvFR",
+        "firm_name": "European Equity Partners",
+        "year_founded": null,
+        "address": null,
+        "website": "www.eeplp.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 76,
+    "fields": {
+        "airtable_id": "recBuF1k6KarYHBwj",
+        "firm_name": "FastForward Innovations",
+        "year_founded": 2006,
+        "address": null,
+        "website": "www.fstfwd.co",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 77,
+    "fields": {
+        "airtable_id": "recsP3drPK0BvzhD4",
+        "firm_name": "Felix Capital",
+        "year_founded": 2015,
+        "address": "27 Beak St. W1F 9RU, London",
+        "website": "www.felixcap.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 78,
+    "fields": {
+        "airtable_id": "recJfx19GWFuG6ngA",
+        "firm_name": "Firestartr",
+        "year_founded": 2012,
+        "address": "FIRESTARTR, 23 BERKELEY SQUARE, LONDON, W1J 6HE",
+        "website": "www.firestartr.co",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 79,
+    "fields": {
+        "airtable_id": "recPKIRaxpmZ4jI8h",
+        "firm_name": "Firstminute Capital",
+        "year_founded": 2017,
+        "address": null,
+        "website": "www.firstminute.capital",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 80,
+    "fields": {
+        "airtable_id": "recLHFInxmLVf0q7x",
+        "firm_name": "Forward Partners",
+        "year_founded": 2012,
+        "address": "2 Aurora Building, 124 East Road, London N1 6FD",
+        "website": "www.forwardpartners.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 81,
+    "fields": {
+        "airtable_id": "rec1TphSrtOmAnla6",
+        "firm_name": "Founders Factory",
+        "year_founded": 2015,
+        "address": null,
+        "website": "www.foundersfactory.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 82,
+    "fields": {
+        "airtable_id": "recPfxvRsONxVSoGa",
+        "firm_name": "Frog Capital",
+        "year_founded": 2008,
+        "address": "The Mews 1a Birkenhead Street, London WC1H 8BA",
+        "website": "www.frogcapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 83,
+    "fields": {
+        "airtable_id": "recUZ9cf9iF5DsCgl",
+        "firm_name": "Greater Manchester Investment Fund",
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 84,
+    "fields": {
+        "airtable_id": "rectEQLNAR7OW9Z2B",
+        "firm_name": "Hearst Ventures",
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 85,
+    "fields": {
+        "airtable_id": "recK6d2Q6Y3T005ko",
+        "firm_name": "Hermes Growth Partners",
+        "year_founded": 2011,
+        "address": null,
+        "website": "www.hermesgrowthpartners.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 86,
+    "fields": {
+        "airtable_id": "recZpVmZdTbkTfPi4",
+        "firm_name": "Highland Capital Partners Europe",
+        "year_founded": 1988,
+        "address": "12 Golden Square, London W1F 9JE",
+        "website": "www.highlandeurope.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 87,
+    "fields": {
+        "airtable_id": "recECU0MYp6xBx3LJ",
+        "firm_name": "Hoxton Ventures",
+        "year_founded": 2013,
+        "address": "100 VICTORIA STREET, 7TH FLOOR, LONDON, SW1E 5JL",
+        "website": "www.hoxtonventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 88,
+    "fields": {
+        "airtable_id": "reciRIfYC8m3z5qiR",
+        "firm_name": "HSBC Innovation Investments",
+        "year_founded": null,
+        "address": null,
+        "website": "www.gbm.hsbc.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 89,
+    "fields": {
+        "airtable_id": "recQMrACh9BWXXu3h",
+        "firm_name": "Hummingbird Ventures",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.hummingbird.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 90,
+    "fields": {
+        "airtable_id": "recWMIPclu2a5cwLJ",
+        "firm_name": "Illuminate Financial Management",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.illuminatefinancial.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 91,
+    "fields": {
+        "airtable_id": "recAcpvqp4TXWTqLN",
+        "firm_name": "Impact Ventures UK",
+        "year_founded": null,
+        "address": "36 Whitefriars St, EC4Y 8BQ",
+        "website": "www.impactventuresuk.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 92,
+    "fields": {
+        "airtable_id": "recz3Jw1OO3yA86sT",
+        "firm_name": "Imperial Innovations",
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 93,
+    "fields": {
+        "airtable_id": "recyDi4B5ORt2W5e9",
+        "firm_name": "Index Ventures (UK)",
+        "year_founded": 1996,
+        "address": "3 Burlington Gardens, London, W1S 3EP",
+        "website": "www.indexventures.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 94,
+    "fields": {
+        "airtable_id": "recTzxlZ3PDDOKJ5T",
+        "firm_name": "Initial Capital",
+        "year_founded": 2010,
+        "address": "WIP",
+        "website": "www.initialcapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 95,
+    "fields": {
+        "airtable_id": "rec7EBaJZFb0jkKkT",
+        "firm_name": "InMotion Ventures",
+        "year_founded": 2016,
+        "address": "114-116 Curtain Road, London, EC2A 3AH",
+        "website": "www.inmotionventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 96,
+    "fields": {
+        "airtable_id": "reci8jyqV1lssKLgI",
+        "firm_name": "Innvotec",
+        "year_founded": 1989,
+        "address": null,
+        "website": "www.innvotec.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 97,
+    "fields": {
+        "airtable_id": "recpNCKiTZmH8jp8g",
+        "firm_name": "InReach Ventures",
+        "year_founded": 2015,
+        "address": "22 Upper Ground, London, United Kingdom",
+        "website": "www.inreachventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 98,
+    "fields": {
+        "airtable_id": "recNJOxg9DUtn4Khj",
+        "firm_name": "Invoke Capital",
+        "year_founded": 2012,
+        "address": "1-3 The Strand, London, WC2N 5EJ",
+        "website": "www.invokecapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 99,
+    "fields": {
+        "airtable_id": "rec6ff0BT1YMpQnQM",
+        "firm_name": "IP Group United Kingdom (IPO)",
+        "year_founded": 2001,
+        "address": "24 Cornhill,London, EC3V 3ND",
+        "website": "www.ipgroupplc.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 100,
+    "fields": {
+        "airtable_id": "recuZZNARkWn25iLs",
+        "firm_name": "IQ Capital Partners",
+        "year_founded": 2006,
+        "address": "checked",
+        "website": "www.iqcapital.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 101,
+    "fields": {
+        "airtable_id": "recogDU6cnewfFVuR",
+        "firm_name": "Iratel Ventures",
+        "year_founded": null,
+        "address": null,
+        "website": "www.iratelventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 102,
+    "fields": {
+        "airtable_id": "recuOKZMCHKaW3QSt",
+        "firm_name": "JamJar Investments",
+        "year_founded": 2009,
+        "address": "JamJar Investments, Unit 3D, Phoenix Brewery, 13 Bramley Rd, London W10 6SZ",
+        "website": "www.jamjarinvestments.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 103,
+    "fields": {
+        "airtable_id": "recU8LSO5w46sf1PB",
+        "firm_name": "Keen Venture Partners",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.keenventurepartners.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 104,
+    "fields": {
+        "airtable_id": "recHoGYBsbsDHwLNX",
+        "firm_name": "Kelvin Capital",
+        "year_founded": 2009,
+        "address": "163 Bath Street, Glasgow G2 4QS",
+        "website": "www.kelvincapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 105,
+    "fields": {
+        "airtable_id": "rec16w4TXLTx0roap",
+        "firm_name": "Kennet Partners",
+        "year_founded": 1997,
+        "address": "21-22 Warwick St, Soho, London W1B 5NE, UK",
+        "website": "www.kennet.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 106,
+    "fields": {
+        "airtable_id": "recCk8ZqHWYGRuutu",
+        "firm_name": "Kindred Capital",
+        "year_founded": 2015,
+        "address": "144A Clerkenwell Rd, London EC1R 5DF",
+        "website": "www.kindredcapital.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 107,
+    "fields": {
+        "airtable_id": "recoIyjoZvCb1U1XY",
+        "firm_name": "Kreos Capital",
+        "year_founded": 1998,
+        "address": null,
+        "website": "www.kreoscapital.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 108,
+    "fields": {
+        "airtable_id": "recxjF82MuDthKNIK",
+        "firm_name": "LocalGlobe",
+        "year_founded": 1999,
+        "address": "Unit 23 Tileyard Studios, Tileyard Road, London, N7 9AH",
+        "website": "www.localglobe.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 109,
+    "fields": {
+        "airtable_id": "recPTqkrva0DHOjAk",
+        "firm_name": "London Co-Investment Fund",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.lcif.co",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 110,
+    "fields": {
+        "airtable_id": "recOZ2a0mHuPntTas",
+        "firm_name": "London Venture Partners",
+        "year_founded": 2010,
+        "address": "10 Southampton Street, London WC2E 7HA, United Kingdom",
+        "website": "www.londonvp.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 111,
+    "fields": {
+        "airtable_id": "recMzWPR1ZEPKplds",
+        "firm_name": "Medicxi Ventures",
+        "year_founded": 2016,
+        "address": "25 Great Pulteney St, Soho, London W1F, UK",
+        "website": "www.medicxi.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 112,
+    "fields": {
+        "airtable_id": "rec22PBstp3tc2ANx",
+        "firm_name": "Mercia Technologies (MERC)",
+        "year_founded": 2010,
+        "address": "Forward House, 17 High Street, Henley-in-Arden, B95 5AA, United Kingdom",
+        "website": "www.merciatech.co.uk",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 113,
+    "fields": {
+        "airtable_id": "recKNROoDUeficJTA",
+        "firm_name": "Mid_ven",
+        "year_founded": 1990,
+        "address": null,
+        "website": "www.midven.co.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 114,
+    "fields": {
+        "airtable_id": "recKBXgovS3UbPXz6",
+        "firm_name": "MMC Ventures",
+        "year_founded": 2000,
+        "address": "2 Kensington Square, London, W8 5EP",
+        "website": "www.mmcventures.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 115,
+    "fields": {
+        "airtable_id": "recE4L11mncPfE6eR",
+        "firm_name": "Mosaic Ventures",
+        "year_founded": 2014,
+        "address": "14 Golden Square, London W1F 9JG, United Kingdom",
+        "website": "www.mosaicventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 116,
+    "fields": {
+        "airtable_id": "recT88tbUcpPcrmQC",
+        "firm_name": "Mustard Seed Impact",
+        "year_founded": 2013,
+        "address": "20 Air St, Soho, London W1B 5AN, UK",
+        "website": "www.mustardseed.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 117,
+    "fields": {
+        "airtable_id": "recHvQKsssWgHmZx5",
+        "firm_name": "Nauta Capital",
+        "year_founded": 2004,
+        "address": "5th Floor, 9 Argyll Street, London, W1F 7TG",
+        "website": "www.nautacapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 118,
+    "fields": {
+        "airtable_id": "recVtETbUeCpdd9Ms",
+        "firm_name": "Nesta",
+        "year_founded": 1998,
+        "address": null,
+        "website": "www.nesta.org.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 119,
+    "fields": {
+        "airtable_id": "rec8BRC66FZueo8Sf",
+        "firm_name": "New Model Venture Capital",
+        "year_founded": 2013,
+        "address": null,
+        "website": "www.newmodel.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 120,
+    "fields": {
+        "airtable_id": "recjBdPK7F7FT5FX9",
+        "firm_name": "NJF Capital",
+        "year_founded": 2015,
+        "address": null,
+        "website": "www.njfcapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 121,
+    "fields": {
+        "airtable_id": "recLw0aAXxnE5Ef4A",
+        "firm_name": "Northern & Shell Ventures",
+        "year_founded": null,
+        "address": null,
+        "website": "www.northernandshell.co.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 122,
+    "fields": {
+        "airtable_id": "recDz7lSl3jJnLiLk",
+        "firm_name": "Northstar Ventures",
+        "year_founded": 2004,
+        "address": "5th Floor\u0003, Maybrook House, 27-35 Grainger Street\u0003, Newcastle upon Tyne, NE1 5JE",
+        "website": "www.northstarventures.co.uk",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 123,
+    "fields": {
+        "airtable_id": "rec3qz10dAPr0bGRv",
+        "firm_name": "Northzone Ventures",
+        "year_founded": 1996,
+        "address": "4TH FLOOR, 6-8 KINGLY COURT, W1B 5PW, LONDON",
+        "website": "www.northzone.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 124,
+    "fields": {
+        "airtable_id": "recRFbKuw9EZQW3zv",
+        "firm_name": "Notion",
+        "year_founded": 2009,
+        "address": "91 Wimpole Street, Marylebone, London, W1G 0EF",
+        "website": "www.notion.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 125,
+    "fields": {
+        "airtable_id": "rec8La2VDvWjjEvfT",
+        "firm_name": "Octopus Ventures",
+        "year_founded": 2007,
+        "address": "33 Holborn, London, EC1N 2HT",
+        "website": "www.octopusventures.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 126,
+    "fields": {
+        "airtable_id": "recOSPWQ0ZxQfsIqP",
+        "firm_name": "Oxford Capital Partners",
+        "year_founded": 1999,
+        "address": "201 CUMNOR HILL, OXFORD OX2 9PJ",
+        "website": "www.oxcp.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 127,
+    "fields": {
+        "airtable_id": "recp0hufPvVPZ3luE",
+        "firm_name": "Oxford Sciences Innovation",
+        "year_founded": 2014,
+        "address": "King Charles House, Park End Street, Oxford, OX1 1JD",
+        "website": "www.oxfordsciencesinnovation.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 128,
+    "fields": {
+        "airtable_id": "recIRRC3V91X4vQoG",
+        "firm_name": "Oxford Spin-out Equity Management",
+        "year_founded": 1998,
+        "address": null,
+        "website": "www.osem.ox.ac.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 129,
+    "fields": {
+        "airtable_id": "recwKVd1afrj9AaZq",
+        "firm_name": "Oxford Technology",
+        "year_founded": 1983,
+        "address": null,
+        "website": "www.oxfordtechnology.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 130,
+    "fields": {
+        "airtable_id": "recQfk3I6OsrMSvuP",
+        "firm_name": "Oxford Technology 4 VCT (OXF)",
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 131,
+    "fields": {
+        "airtable_id": "recrvJJNbYaTn4wQ3",
+        "firm_name": "Oxford University Innovation",
+        "year_founded": 1987,
+        "address": null,
+        "website": "www.innovation.ox.ac.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 132,
+    "fields": {
+        "airtable_id": "rec9PfcOZ7SnnkIcF",
+        "firm_name": "Oxx (London)",
+        "year_founded": 2017,
+        "address": null,
+        "website": "www.oxx.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 133,
+    "fields": {
+        "airtable_id": "recIDCI3lT27grLek",
+        "firm_name": "Par Equity",
+        "year_founded": 2008,
+        "address": "3a Dublin Meuse, Edinburgh, EH3 6NW",
+        "website": "www.parequity.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 134,
+    "fields": {
+        "airtable_id": "reckxY1i7jmjJNBgy",
+        "firm_name": "Passion Capital",
+        "year_founded": 2011,
+        "address": "2nd Floor, White Bear Yard, 144a Clerkenwell Road, London EC1R 5DF",
+        "website": "www.passioncapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 135,
+    "fields": {
+        "airtable_id": "recbyV99Yd5dTSQrE",
+        "firm_name": "Pembroke Venture Capital Trust (PEMV)",
+        "year_founded": 2013,
+        "address": null,
+        "website": "www.pembrokevct.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 136,
+    "fields": {
+        "airtable_id": "recPIgYEFsQ854uPu",
+        "firm_name": "Pentech Ventures",
+        "year_founded": 2001,
+        "address": "One Alfred Place, London WC1E 7E",
+        "website": "www.pentech.vc",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 137,
+    "fields": {
+        "airtable_id": "recccyM9z4B2m34xF",
+        "firm_name": "Piton Capital",
+        "year_founded": 2010,
+        "address": "Venture House, 5th Floor, 27-29 Glasshouse Street, London W1B 5DF",
+        "website": "www.pitoncap.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 138,
+    "fields": {
+        "airtable_id": "recvWhb1dWpOh3oUI",
+        "firm_name": "Playfair Capital",
+        "year_founded": 2011,
+        "address": "8 Warner Yard, London EC1R 5EY, England",
+        "website": "www.playfaircapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 139,
+    "fields": {
+        "airtable_id": "recOvqteCFx6hcQss",
+        "firm_name": "PROfounders Capital",
+        "year_founded": 2009,
+        "address": "3 Cadogan Gate, Chelsea, London SW1X 0AS",
+        "website": "www.profounderscapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 140,
+    "fields": {
+        "airtable_id": "recnoH4TLPawCYK0T",
+        "firm_name": "Rare Seed Capital",
+        "year_founded": null,
+        "address": null,
+        "website": "www.rareseedcapital.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 141,
+    "fields": {
+        "airtable_id": "recs8gw3SKNNlUtIg",
+        "firm_name": "Redline Capital Management",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.redline-capital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 142,
+    "fields": {
+        "airtable_id": "recffyYGvcKtLW00o",
+        "firm_name": "REV Venture Partners",
+        "year_founded": 2000,
+        "address": "London One Strand WC2N 5JR",
+        "website": "www.rev.vc",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 143,
+    "fields": {
+        "airtable_id": "reczUJGqOezqHC5Ni",
+        "firm_name": "Rooks Nest Ventures",
+        "year_founded": 2017,
+        "address": null,
+        "website": "www.rooksnestventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 144,
+    "fields": {
+        "airtable_id": "recipi8AAsbVIzRqz",
+        "firm_name": "Rosetta Capital(London)",
+        "year_founded": 2001,
+        "address": null,
+        "website": "www.rosettacapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 145,
+    "fields": {
+        "airtable_id": "recyAZgGsUftvRCOe",
+        "firm_name": "SAATCHiNVEST",
+        "year_founded": 2012,
+        "address": "36 Golden Square, Soho, London W1F 9JX",
+        "website": "www.saatchinvest.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 146,
+    "fields": {
+        "airtable_id": "recmotKaKuKVwYik3",
+        "firm_name": "Saffron Hill Ventures",
+        "year_founded": 2000,
+        "address": null,
+        "website": "www.saffronhill.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 147,
+    "fields": {
+        "airtable_id": "rec6V1Wz4HPgaWf7o",
+        "firm_name": "Santander InnoVentures",
+        "year_founded": 2014,
+        "address": null,
+        "website": "www.santanderinnoventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 148,
+    "fields": {
+        "airtable_id": "recgmUTx5h7V7N67h",
+        "firm_name": "Scottish Equity Partners",
+        "year_founded": 1991,
+        "address": "29 St George Street, London, W1S 2FA",
+        "website": "www.sep.co.uk",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 149,
+    "fields": {
+        "airtable_id": "recmFegnPltUxgMHu",
+        "firm_name": "Seedcamp",
+        "year_founded": 2007,
+        "address": "4-5 Bonhill Street, Shoreditch, London EC2A 4BX",
+        "website": "www.seedcamp.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 150,
+    "fields": {
+        "airtable_id": "recFQ7EGjBVtEZzPC",
+        "firm_name": "Seraphim Capital",
+        "year_founded": 2006,
+        "address": "Runway East Shoreditch, 58-64 City Road, London EC1Y 2AL",
+        "website": "www.seraphimcapital.co.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 151,
+    "fields": {
+        "airtable_id": "recMQnYcgmk35vNqY",
+        "firm_name": "Sky Startup Investments & Partnerships",
+        "year_founded": null,
+        "address": null,
+        "website": "startups.sky.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 152,
+    "fields": {
+        "airtable_id": "recQd9F3FyPTVMdlz",
+        "firm_name": "Smedvig Capital",
+        "year_founded": 1996,
+        "address": "Ryger House, 11 Arlington Street, London, SW1A 1RD",
+        "website": "www.smedvigcapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 153,
+    "fields": {
+        "airtable_id": "recDcB8RyP8r1sOjF",
+        "firm_name": "Spark Impact",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.sparkimpact.co.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 154,
+    "fields": {
+        "airtable_id": "receszHUJHB5yOLmP",
+        "firm_name": "Start Capital",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.start-capital.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 155,
+    "fields": {
+        "airtable_id": "reclDVPRG0vRlbH8r",
+        "firm_name": "Startupbootcamp",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.startupbootcamp.org",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 156,
+    "fields": {
+        "airtable_id": "receSWhacVsND6IQf",
+        "firm_name": "Summit Partners",
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 157,
+    "fields": {
+        "airtable_id": "recXq1rGC7NrgPCDh",
+        "firm_name": "Sussex Place Ventures",
+        "year_founded": 1998,
+        "address": "London Business School, Sussex Place, London NW1 4SA",
+        "website": "www.spventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 158,
+    "fields": {
+        "airtable_id": "rec51Vbc3O27yv0hY",
+        "firm_name": "Symvan Capital",
+        "year_founded": 2013,
+        "address": null,
+        "website": "www.symvancapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 159,
+    "fields": {
+        "airtable_id": "rec5QkRAb438n8LgA",
+        "firm_name": "Syncona (SYNC)",
+        "year_founded": 2012,
+        "address": null,
+        "website": "www.synconaltd.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 160,
+    "fields": {
+        "airtable_id": "rec6anvalmY4oi2Ii",
+        "firm_name": "Talis Capital",
+        "year_founded": 2009,
+        "address": "Suite 4 Rowan Court, 56 High Street Wimbledon, London SW19 5EE, United Kingdom",
+        "website": "www.taliscapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 161,
+    "fields": {
+        "airtable_id": "rec3ajjAbZhjRTvAT",
+        "firm_name": "Tate & Lyle Ventures (TATE)",
+        "year_founded": 2006,
+        "address": null,
+        "website": "www.tateandlyleventures.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 162,
+    "fields": {
+        "airtable_id": "recFQBXqpfa7tqS4C",
+        "firm_name": "The North West Fund",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.thenorthwestfund.co.uk",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 163,
+    "fields": {
+        "airtable_id": "rec9cfRF2FSDVkKZ5",
+        "firm_name": "The Summit Group (UK)",
+        "year_founded": 1985,
+        "address": null,
+        "website": "www.summit-group.co.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 164,
+    "fields": {
+        "airtable_id": "recj0tX5n3COwjOQS",
+        "firm_name": "TLcom Capital",
+        "year_founded": 1999,
+        "address": null,
+        "website": "www.tlcomcapital.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 165,
+    "fields": {
+        "airtable_id": "recGkCgvKJNfCOKa8",
+        "firm_name": "TMT Investments (TMT)",
+        "year_founded": 2010,
+        "address": null,
+        "website": "www.tmtinvestments.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 166,
+    "fields": {
+        "airtable_id": "recLzQbFTbYOmiRqX",
+        "firm_name": "Touchstone Innovations",
+        "year_founded": 1986,
+        "address": "7 Air Street, London W1B 5AD",
+        "website": "www.touchstoneinnovations.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 167,
+    "fields": {
+        "airtable_id": "recpF0s9tmxxIZZqF",
+        "firm_name": "Unilever Ventures",
+        "year_founded": 2002,
+        "address": "1st Floor, 16 Charles II Street, London, SW1Y 4QU",
+        "website": "www.unileverventures.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 168,
+    "fields": {
+        "airtable_id": "recgAN24maRgI6eOz",
+        "firm_name": "University of Oxford Endowment",
+        "year_founded": null,
+        "address": null,
+        "website": "www.ox.ac.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 169,
+    "fields": {
+        "airtable_id": "recxv0xa96nCE6oAi",
+        "firm_name": "Venrex Investment Management",
+        "year_founded": 2003,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 170,
+    "fields": {
+        "airtable_id": "recRz7n3FIJiX1ReH",
+        "firm_name": "Walking Ventures",
+        "year_founded": 2012,
+        "address": null,
+        "website": "www.walking.vc",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 171,
+    "fields": {
+        "airtable_id": "recdwBInkg98qVUcY",
+        "firm_name": "West Midlands Enterprise",
+        "year_founded": 1982,
+        "address": null,
+        "website": "www.wm-enterprise.co.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 172,
+    "fields": {
+        "airtable_id": "rec6LvyQ1W42ql1Ky",
+        "firm_name": "White Star Capital",
+        "year_founded": 2007,
+        "address": null,
+        "website": "www.whitestarvc.com",
+        "aum": null,
+        "size": "Medium",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 173,
+    "fields": {
+        "airtable_id": "recglKr3QBmyKbmqG",
+        "firm_name": "Worth Capital",
+        "year_founded": 2015,
+        "address": null,
+        "website": "www.worthcapital.uk",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 174,
+    "fields": {
+        "airtable_id": "recPv2nGRzVuEjx2m",
+        "firm_name": "Wyvern Fund",
+        "year_founded": null,
+        "address": null,
+        "website": "www.wyvernfund.com",
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 175,
+    "fields": {
+        "airtable_id": "recaitpktpVbUZevM",
+        "firm_name": "YFM Equity Partners",
+        "year_founded": 1982,
+        "address": "Valiant Building, 14 S Parade, Leeds LS1 5QS, UK",
+        "website": "www.yfmep.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 176,
+    "fields": {
+        "airtable_id": "rectj4Y2Piw0ZGNBT",
+        "firm_name": "Yorkshire Fund Managers",
+        "year_founded": null,
+        "address": null,
+        "website": "http://yfmep.com",
+        "aum": null,
+        "size": "Large",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 177,
+    "fields": {
+        "airtable_id": "recS3Ub9moQ86Rk8O",
+        "firm_name": "83North",
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 178,
+    "fields": {
+        "airtable_id": "reczxi9o58CqhsjIS",
+        "firm_name": "Abingworth Management",
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+},
+{
+    "model": "firms.firm",
+    "pk": 179,
+    "fields": {
+        "airtable_id": "rec1xGnOlUWzJxnW4",
+        "firm_name": null,
+        "year_founded": null,
+        "address": null,
+        "website": null,
+        "aum": null,
+        "size": "Small",
+        "specialisation": null
+    }
+}
+]
